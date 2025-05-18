@@ -9,7 +9,7 @@ Thank you for your interest in contributing to CodaQuill! This document provides
 - Include comments for complex logic
 - Keep functions focused and single-purpose
 - Use SwiftUI best practices for UI components
-- Follow MVVM architecture pattern
+- Follow the MVVM architecture pattern
 - Maintain consistent code formatting
 
 ## Development Process
@@ -25,7 +25,7 @@ Thank you for your interest in contributing to CodaQuill! This document provides
 1. Ensure your code follows the style guide
 2. Update documentation if necessary
 3. Include tests for new features
-4. Provide clear description of changes
+4. Provide a clear description of changes
 5. Reference any related issues
 
 ## Bug Reporting
@@ -43,7 +43,7 @@ When reporting bugs, please include:
 For feature requests:
 - Clear description of the feature
 - Use case and benefits
-- Implementation suggestions if any
+- Implementation suggestions, if any
 - Priority level
 
 ## Testing
@@ -71,10 +71,10 @@ For questions or support:
 Thank you for contributing to CodaQuill!
 
 ## We Develop with Github
-We use GitHub to host code, to track issues and feature requests, as well as accept pull requests.
+We use GitHub to host code, to track issues and feature requests, as well as to accept pull requests.
 
-## Any contributions you make will be under the MIT Software License
-In short, when you submit code changes, your submissions are understood to be under the same [MIT License](http://choosealicense.com/licenses/mit/) that covers the project. Feel free to contact me if that's a concern.
+## Any contributions you make will be under the Apache Software License
+In short, when you submit code changes, your submissions are understood to be under the same [Apache License 2.0](https://choosealicense.com/licenses/apache-2.0/) that covers the project. Feel free to contact me if that's a concern.
 
 ## Report bugs using Github's [issue tracker](https://github.com/Eissxs/CodaQuill/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new issue](https://github.com/Eissxs/CodaQuill/issues/new).
@@ -87,17 +87,17 @@ We use GitHub issues to track public bugs. Report a bug by [opening a new issue]
 - Steps to reproduce
   - Be specific!
   - Give sample code if you can.
-- What you expected would happen
-- What actually happens
+- What did you expect would happen
+- What happens
 - Notes (possibly including why you think this might be happening, or stuff you tried that didn't work)
 
 ## Coding Style
 
 * 4 spaces for indentation rather than tabs
-* 120 character line length
+* 120-character line length
 * Follow SwiftLint rules
 * Write documentation for all public interfaces
-* Use Taglish comments for better understanding
+* Use English comments for better understanding
 
 ## License
-By contributing, you agree that your contributions will be licensed under its MIT License. 
+By contributing, you agree that your contributions will be licensed under the Apache License 2.0. 
