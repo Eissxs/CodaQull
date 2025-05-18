@@ -1,5 +1,5 @@
 # CodaQuill Documentation
-Version 1.2 | Last Updated: 2024
+Version 1.2 | Last Updated: 2025
 
 ## Table of Contents
 1. [Introduction](#introduction)
